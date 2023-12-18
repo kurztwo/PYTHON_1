@@ -11,7 +11,7 @@ json_data = '''
     "name": "John",
     "dane": {
                         "lp": 0,
-                        "akronim": "AW : NAGŁOWEK ZAMÓWIENIA - JEDN. ORG. KONTRAHENTA",
+                        "akronim": "AW : NAGŁOWEK ZAMÓWIENIA - JEDN. ORG. KONTRqqqqAHENTA",
                         "nazwa": "AW : NAGŁOWEK ZAMÓWIENIA - JEDN. ORG. KONTRAHENTA",
                         "typ_wartosci": 0,
                         "zmienna": "awN_JO",
